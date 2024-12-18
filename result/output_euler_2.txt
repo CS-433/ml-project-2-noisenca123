@@ -1,0 +1,6 @@
+Test_Solver: euler
+Test_Result: Loss = 3.042987604657809
+Test_Solver: im_euler
+Test_Result: Loss = 2.9449702385663983
+Test_Solver: rk4
+Test_Result: Loss = 2.8373513356447218

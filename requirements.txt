@@ -1,0 +1,11 @@
+torch
+torchvision
+gdown
+requests
+moviepy
+pyyaml
+wandb
+tqdm
+matplotlib
+jupyter
+scipy
