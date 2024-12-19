@@ -72,7 +72,8 @@ This repository contains a code implementation of Using Different PDE Solvers fo
 │      model_rk4_8.pth
 │      model_rk4_9.pth
 │
-└─result # Empty folder for saving output results, may not in the repository
+└─result # Save the output and provide two sets of output examples.
+         # Before running the code, clear the `result` folder
 
 ```
 
